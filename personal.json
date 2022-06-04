@@ -1,0 +1,137 @@
+{
+    "__class__": "ColeccionPersonal",
+    "personas": [
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "20-48752563-2",
+                "apellido": "Acosta",
+                "nombre": "Franco",
+                "sueldoBasico": 69000000.0,
+                "antiguedad": 2,
+                "areaInvestigacion": "Redes",
+                "tipoInvestigacion": "Teorica",
+                "carrera": "LSI",
+                "cargo": "Semiexclusivo",
+                "catedra": "Redes Opticas",
+                "categoriaIncentivos": "V",
+                "importeExtra": 10000.7
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "34-2658452014-2",
+                "apellido": "Barto",
+                "nombre": "El",
+                "sueldoBasico": 2000000.0,
+                "antiguedad": 5,
+                "areaInvestigacion": "Modelado Letras ",
+                "tipoInvestigacion": "Teorica"
+            }
+        },
+        {
+            "__class__": "PersonalApoyo",
+            "__atributos__": {
+                "cuil": "24-38545241-2",
+                "apellido": "Castro",
+                "nombre": "Luis",
+                "sueldoBasico": 100000.1,
+                "antiguedad": 6,
+                "categoria": 25
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "42-22335689-4",
+                "apellido": "Chim",
+                "nombre": "Chom",
+                "sueldoBasico": 80000.0,
+                "antiguedad": 10,
+                "areaInvestigacion": "Sistema Informacion",
+                "tipoInvestigacion": "Teorica",
+                "carrera": "LCC",
+                "cargo": "Semiexclusivo",
+                "catedra": "Informatica",
+                "categoriaIncentivos": "I",
+                "importeExtra": 200.0
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "23-45856932-2",
+                "apellido": "Diaz",
+                "nombre": "Diego",
+                "sueldoBasico": 54000.0,
+                "antiguedad": 8,
+                "areaInvestigacion": "Alumnos",
+                "tipoInvestigacion": "Practica",
+                "carrera": "LCC",
+                "cargo": "Simple",
+                "catedra": "Apollo",
+                "categoriaIncentivos": "II",
+                "importeExtra": 600.0
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "20-22304256-4",
+                "apellido": "El Baty",
+                "nombre": "Gabi",
+                "sueldoBasico": 7500000.0,
+                "antiguedad": 5,
+                "areaInvestigacion": "Estadistica",
+                "tipoInvestigacion": "Practica",
+                "carrera": "Matematica",
+                "cargo": "Semiexclusivo",
+                "catedra": "Probabilidad",
+                "categoriaIncentivos": "III",
+                "importeExtra": 50000.0
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "20-65854218-3",
+                "apellido": "Milito",
+                "nombre": "Diego",
+                "sueldoBasico": 3000000.0,
+                "antiguedad": 1,
+                "areaInvestigacion": "Algedra Cuantica",
+                "tipoInvestigacion": "Uso Practico",
+                "carrera": "LCC",
+                "cargo": "Exclusivo",
+                "catedra": "Matematica",
+                "categoriaIncentivos": "II",
+                "importeExtra": 5000.0
+            }
+        },
+        {
+            "__class__": "PersonalApoyo",
+            "__atributos__": {
+                "cuil": "20-28235641-1",
+                "apellido": "Perez",
+                "nombre": "Juan",
+                "sueldoBasico": 78520.34,
+                "antiguedad": 3,
+                "categoria": 5
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "20-42586311-2",
+                "apellido": "Tevez",
+                "nombre": "Carlos",
+                "sueldoBasico": 600000.0,
+                "antiguedad": 3,
+                "carrera": "LCC",
+                "cargo": "Exclusivo",
+                "catedra": "Informatica"
+            }
+        }
+    ]
+}
